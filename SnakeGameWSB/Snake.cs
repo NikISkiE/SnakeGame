@@ -177,7 +177,7 @@ class Program
 
                     movement = "DOWN";
 
-                    break:
+                    break;
 
                 case ConsoleKey.LeftArrow:
 
